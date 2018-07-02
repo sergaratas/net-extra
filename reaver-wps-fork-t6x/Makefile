@@ -15,7 +15,7 @@ PKG_NAME:=reaver-wps-fork-t6x
 PKG_VERSION:=master
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).zip
+#PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).zip
 PKG_SOURCE_URL:=https://github.com/t6x/reaver-wps-fork-t6x.git
 PKG_MD5SUM:=b2b5dbdb255407166089db712b6d49bd
 PKG_LICENSE:=GPL-2.0
